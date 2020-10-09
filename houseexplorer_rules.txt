@@ -1,0 +1,26 @@
+
+       Welcome to The Befriender
+
+In this game, you will explore a house, trying to make as many friends as possible.
+In each room, you will meet characters, that can be friendly or hostile.
+
+Friends can give you secret objects to convert hostiles into friends, but they will not tell you which object when, although you have to pay attention to what they say!
+
+When meeting hostiles, you must fight them. For each fight, you will pick an item from your inventory that will convert, subdue or kill your opponent, or do nothing!
+If you convert your opponent into a friend, the fight is over, you have won and you can 
+explore the room.
+If you subdue your opponent, you can search the room, but next time you will visit this
+room, your enemy will be there ready to fight!
+If you kill your enemy, you will never meet this character again in the game.
+
+When you use a gift, it is taken out of your inventory and you won't be able to find or
+acquire it again!
+If you use the wrong item in a fight, you will lose a third of your health. 
+Be careful, you only have 3 lives!
+So, you can always run away and go back to a room you already explored. :-)
+
+You cannot go into an unexplored room unless you have defeated or subdued any hostile in your current room.
+
+Rooms also contain furniture that you can explore and maybe find weapons to use against hostiles.
+
+Good luck!

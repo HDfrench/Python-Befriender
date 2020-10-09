@@ -1,0 +1,10 @@
+___________________________________________________________________
+| Enemy	    | 	submit		|   convert	|   kill           | 
+|___________|___________________|_______________|__________________|
+| clown	    |	whip		| cheese	| feather          | 
+| monster   |	remote control	| key		| box of matches   | 
+| scarecrow |	pitch fork	| hat		| magnifying glass | 
+| vampire   |	sun lamp	| mouthwash	| garlic           | 
+| witch     |	fairy dust	| wooden sppon	| incantation      | 
+| zombie    |	air freshener	| billiard ball	| knife            | 
+|___________|___________________|_______________|__________________| 

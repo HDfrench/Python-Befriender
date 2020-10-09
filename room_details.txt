@@ -1,0 +1,12 @@
+kitchen	Kitchen	A room full of light and mouth-watering scents.
+ballroom	Ballroom	A large and wide empty room with a splendid flooring and magnificent chandeliers.
+dining_hall	Dining hall	A rather large room, with a grandiose dining table able to sit 8 peoples, surrounded by furniture covered walls displaying magnificent tableware.
+pantry	Pantry	A small dark room with shelves.
+hallway	Hallway	The centre of the house, the intersection between the east and west wings.
+bathroom	Bathroom	A lovely warm and cosy washing area.
+corridor	Corridor	A long and narrow passage leading to the east wing of the house.
+office	Office	A room organised around a large glass desk, with a beautiful chair and many filling cabinets.
+bedroom	Bedroom	The only bedroom in the house, fitted with a large king size bed and some wardrobe.
+cabinet	Walk-in cabinet	A magnificent and well-organised walk-in cabinet displaying well pressed expensive garnments and shoes.
+den	Entertainment room	A very large room with a pool table, an entertainment center, an oval coffee table and a great five seater leather sofa.
+library	Library	A cosy room filled with bookshelves and a reading area.

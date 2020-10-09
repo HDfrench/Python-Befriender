@@ -1,0 +1,34 @@
+
+You will play with the keyboard pressing only 
+		1 key + return
+
+In each room, you will be given up a few options
+				and sub options:
+	Move (m) ==> go to another room
+		** optional (not with hostile!)
+		   if there is an enemy in the room
+		   you can only access already visited
+		   rooms.
+		n, s, w, e ==> direction
+
+	Explore (x) ==> search the furniture
+		** displays a numbered list of
+		   furniture
+		1, 2, etc.
+		x to stop searching
+
+	Talk (t) ==> speak with a friend
+		**required to obtain objects to 
+		convert hostiles
+
+	Fight (f) ==> fight an enemy
+		** displays a numbered list of
+		   items in your inventory
+		1, 2, etc.
+		g to give up fighting
+
+	Key (k) ==> will show a map of the house
+	Options (o) ==> will show this file
+	Rules (r) ==> will show the rules of the game
+
+	Quit (q) ==> to quit the game

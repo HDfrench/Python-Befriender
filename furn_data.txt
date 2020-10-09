@@ -1,0 +1,31 @@
+kitchen	kitchen_table	kitchen table	A small round table with 3 chairs	nothing|0
+kitchen	kitchen_sink	kitchen sink	A standard kitchen sink	knife|k
+kitchen	kitchen_oven	oven	A beautiful fan oven	nothing|0
+kitchen	kichen_draw	drawers	A set of drawers	nothing|0
+kitchen	kitchen_fridge	fridge	A double-door fridge	cheese|c
+kitchen	kitchen_dishwasher	dishwasher	A dishwasher with its door ajar	wooden spoon|c
+dining_hall	dining_table	dining table	A long oval wooden well-polished table with 8 chairs	a box of matches|k
+dining_hall	dining_draw_1	commode	A tall 8 drawers wooden commode	nothing|0
+dining_hall	dining_draw_2	set of drawers	A medium size set of 4 drawers	garlic|k
+ballroom	ballroom_armchair	armchair	A comfortable, impressive and luxurious leather armchair	nothing|0
+ballroom	ballroom_sofa	reclining sofa	A three-sitter reclining sofa covered in a lovely purple velvet	hat|c
+pantry	shelf_1	shelf	a shelf full of small boxes	nothing|0
+hallway	hallway_table	gueridon	A small table with a vase and some flowers	key|c
+bathroom	bathroom_sink	sink	An enamel wash bassin	mouthwash|c
+bathroom	bathroom_cupboard	bathroom cabinet	A small cabinet containing toiletries	nothing|0
+bathroom	bathroom_cupboard_2	undersink cupboard	A cupboard under the sink containing household cleaning products	nothing|0
+office	office_desk	desk	A large oak desk with some drawers	incantation|k
+office	office_chair	chair	A large leather chair	nothing|0
+office	office_shelf	bookshelf	A tall and wide shelf full of files	nothing|0
+bedroom	bedroom_bed	bed	A king size bed with lovely linen	feather|k
+bedroom	bedroom_nightstand	nightstand	A small and nice pine table	nothing|0
+bedroom	bedroom_wardrobe	wardrobe	A massive pine wardrobe	nothing|0
+cabinet	cabinet_left	hangers	A huge and long rack, full of clothes on hangers	nothing|0
+cabinet	cabinet_right	drawers	A set of drawers, full of folded garnments	nothing|0
+den	den_table	coffee table	A long coffee table	nothing|0
+den	den_pool	pool table	A standard pool table	billiard ball|c
+den	den_enter	entertainment centre	A massive and complete entertainment centre	nothing|0
+den	den_sofa	sofa	A large and comfortable velvet sofa	nothing|0
+library	lib_reclining	reclining armchair	A lovely reclining armchair, ideal for reading	magnifying glass|k
+library	lib_bookshelf_1	tall bookshelf	A long bookshelf covering the entire wall, packed with innumerable books	nothing|0
+library	lib_bookshelf_2	short bookshelf	A smaller bookshelf near the reclining chair	nothing|0

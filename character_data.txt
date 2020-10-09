@@ -1,0 +1,12 @@
+Dave	Enemy	pantry	zombie	Argh, brains...|Ooh smelly cheese!|Blades are bad!	airfreshener|knife|billiard ball
+Drac	Enemy	office	vampire	Blood! Blood! Blood!|I don't like suntanning!|Not a fan of French cuisine either!	sun lamp|garlic|mouthwash
+Henzel	Enemy	bathroom	witch	By the eyes of newt...|I am allergic to fairy dust|A spell can be a nasty thing.	fairy dust|incantation|wooden spoon
+Ricky	Enemy	dining_hall	clown	Come here, let me tickle you!|I am all for laughing and being wild|My favorite cheese is probably the laughing cow	whip|feather|cheese
+Franky	Enemy	corridor	monster	Kill! Smash! Destroy!|Fire bad, very bad!|Sometimes, I cross my wires!	remote control|matches|key
+Scary	Enemy	cabinet	scarecrow	Come and rest on my hay, he he he!|You know you can make fire using a magnifying glass?|Nobody saw my hat :-(	pitchfork|magnifying glass|hat
+Greg	Friend	den	angel	May peace be upon you :)|I am not afraid of zombies.|Let me give you some air freshener.	air freshener|g|Dave
+Liz	Friend	library	librarian	How lovely to see you.|Vampirism is such an ugly disease.|Here is a sun lamp to help you.	sun lamp|g|Drac
+Heather	Friend	ballroom	fairy	Beautiful and happy day to you|Magic is wonderful|Here is some fairy dust to help you win against magic!	fairy dust|g|Henzel
+Cathy	Friend	kitchen	lion tamer	Hiya. Hope you are doing great!|Bozos are really not funny :-(|I gift you this whip to get things cracking!	whip|g|Ricky
+Ruppert	Friend	hallway	scientist	Hello, how do you do?|Nothing cannot be solved with the help of science|I think this remote control will help you if you ever get into trouble.	remote control|g|Franky
+Mike	Friend	bedroom	farmer	All right? what's up?|Load of things to do on the farm! never any rest|You can never get by without a pitchfork!	pitchfork|g|Scary
